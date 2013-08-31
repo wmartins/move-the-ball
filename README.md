@@ -1,0 +1,29 @@
+Move the ball
+=============
+
+This is a simple socket.io client-server application that allows to control the movements of an object on the screen.
+
+Installation
+============
+
+First of all you need to have [nodejs](https://github.com/joyent/node) installed.
+
+After installing nodejs, just clone this repository and then run the following command:
+
+```npm install```
+
+This will install the dependencies (express and socket.io).
+
+How to run
+==========
+
+To run this application just execute the following command:
+
+```node src/app.js``` (well, this is a temporary way, I swear that I will create create a build script).
+
+Now you can access the screen containing the red ball at (localhost:8080)[localhost:8080] and you also can access the control screen at (localhost:8080/client.html)[localhost:8080/client.html].
+
+What if I need to change the port?
+==================================
+
+Well, that is pretty simple, just edit the file (src/app.js)[src/app.js] and change the variable ```port``` to the port that you want to use!
