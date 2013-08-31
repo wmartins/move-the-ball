@@ -27,3 +27,8 @@ What if I need to change the port?
 ==================================
 
 Well, that is pretty simple, just edit the file [src/app.js](src/app.js) and change the variable ```port``` to the port that you want to use!
+
+Contributing
+============
+
+If you want to improve this or add some features, fork and send me a pull request!
