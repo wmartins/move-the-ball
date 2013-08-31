@@ -36,5 +36,6 @@ If you want to improve this or add some features, fork and send me a pull reques
 Changelog
 =========
 
-31/08/2013 - First commit with basic ball movements by click
+31/08/2013 - First commit with basic ball movements by click.
+
 31/08/2013 - Added keyboard events to move the ball. Thanks [@henvic](https://github.com/henvic).
