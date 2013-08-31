@@ -21,7 +21,7 @@ To run this application just execute the following command:
 
 ```node src/app.js``` (well, this is a temporary way, I swear that I will create create a build script).
 
-Now you can access the screen containing the red ball at (http://localhost:8080)[http://localhost:8080] and you also can access the control screen at (http://localhost:8080/client.html)[http://localhost:8080/client.html].
+Now you can access the screen containing the red ball at [http://localhost:8080](http://localhost:8080) and you also can access the control screen at [http://localhost:8080/client.html](http://localhost:8080/client.html).
 
 What if I need to change the port?
 ==================================
